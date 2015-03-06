@@ -52,27 +52,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Miscellaneous](#miscellaneous)
 
 
-### Mad science
-
-- [webtorrent](https://github.com/feross/webtorrent) - Streaming torrent client for Node.js and the browser.
-- [peerflix](https://github.com/mafintosh/peerflix) - Streaming torrent client.
-- [dat](http://dat-data.com) - Real-time replication and versioning for data sets.
-- [ipfs](https://github.com/jbenet/node-ipfs) - Distributed file system that seeks to connect all computing devices with the same system of files.
-- [Breach](http://breach.cc) - Modular and hackable browser written in JavaScript.
-- [peerwiki](https://github.com/mafintosh/peerwiki) - All of Wikipedia on BitTorrent.
-- [peercast](https://github.com/mafintosh/peercast) - Stream a torrent video to Chromecast.
-- [BitcoinJS](http://bitcoinjs.org) - Clean, readable, proven Bitcoin library.
-- [Bitcore](http://bitcore.io/) - A pure and powerful Bitcoin library.
-- [js-git](https://github.com/creationix/js-git) - JavaScript implementation of Git.
-- [NodeOS](http://node-os.com) - The first operating system powered by npm.
-- [PDFKit](http://pdfkit.org) - PDF generation library.
-- [turf](https://github.com/Turfjs/turf/) - Modular geospatial processing and analysis engine.
-
-
 ### Command-line apps
 
 - [pageres](https://github.com/sindresorhus/pageres) - Responsive website screenshots.
 - [trash](https://github.com/sindresorhus/trash) - A safer alternative to `rm`.
+- [empty-trash](https://github.com/sindresorhus/empty-trash) - Empty the trash.
 - [yo](https://github.com/yeoman/yo) - Run Yeoman generators.
 - [ESLint](http://eslint.org) - The pluggable linting utility for JavaScript.
 - [JSHint](http://jshint.com) - A community-driven tool to detect errors and potential problems in JavaScript code.
@@ -82,7 +66,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [David](https://github.com/alanshaw/david) - Tells you when your package npm dependencies are out of date.
 - [vtop](https://github.com/MrRio/vtop) - More better top, with nice charts.
 - [tmpin](https://github.com/sindresorhus/tmpin) - Adds stdin support to any CLI app that accepts file input.
-- [empty-trash](https://github.com/sindresorhus/empty-trash) - Empty the trash.
 - [normit](https://github.com/pawurb/normit) - Google Translate with speech synthesis in your terminal.
 - [esformatter](https://github.com/millermedeiros/esformatter) - JavaScript code beautifier/formatter.
 - [is-up](https://github.com/sindresorhus/is-up) - Check whether a website is up or down.
